@@ -37,15 +37,19 @@ To run this project on your local machine:
 ## 🧩 Dependencies
 
 - [shared_preferences](https://pub.dev/packages/shared_preferences)
-- [intl](https://pub.dev/packages/intl)
 - Flutter SDK (stable channel)
 
 ## 📦 Build Setup
 
-Make sure you have Flutter installed and configured correctly. If you changed the app icon and name:
+Make sure you have Flutter installed and configured correctly.
 
-- App icon: Updated using `flutter_launcher_icons` (or manually replaced assets).
-- App name: Updated in `AndroidManifest.xml` and `Info.plist`.
+- **App icon**: Custom app icons were added manually using an online icon generator and placed directly in:
+  - `android/app/src/main/res` for Android
+  - `ios/Runner/Assets.xcassets` for iOS
+
+- **App name**: Updated manually in the following files:
+  - `AndroidManifest.xml` for Android
+  - `Info.plist` for iOS
 
 ## 📱 Platforms Supported
 
