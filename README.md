@@ -6,7 +6,7 @@ The **Billionaire App** is a simple Flutter project that demonstrates persistent
 
 <img src="/assets/images/billionnaire_screen.png" width="300">
 
-## ✨ Features
+##  Features
 
 - 🏦 Display of bank balance in a formatted currency style.
 - 💰 Button to add money to the balance.
@@ -38,7 +38,7 @@ To run this project on your local machine:
 - [shared_preferences](https://pub.dev/packages/shared_preferences)
 - [intl](https://pub.dev/packages/intl)
 
-## 📦 Build Setup
+##  Build Setup
 
 Make sure you have Flutter installed and configured correctly.
 
