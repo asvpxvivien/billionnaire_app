@@ -55,3 +55,4 @@ Make sure you have Flutter installed and configured correctly.
 - Android ✅
 - iOS ✅ (with platform adjustments)
 
+© 2025 Created by Vivien
