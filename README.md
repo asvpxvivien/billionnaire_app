@@ -55,8 +55,3 @@ Make sure you have Flutter installed and configured correctly.
 - Android ✅
 - iOS ✅ (with platform adjustments)
 
-## 📄 License
-
-This project is open-source and free to use under the MIT License.
-
----
