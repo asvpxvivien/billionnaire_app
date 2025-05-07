@@ -2,7 +2,7 @@
 
 The **Billionaire App** is a simple Flutter project that demonstrates persistent local state using `shared_preferences`. It simulates a bank account where users can increase their balance by tapping a button.
 
-## 🖼️ Preview
+##  Preview
 
 <img src="/assets/images/billionnaire_screen.png" width="300">
 
@@ -13,7 +13,7 @@ The **Billionaire App** is a simple Flutter project that demonstrates persistent
 - 🔄 Persistent data using `shared_preferences`.
 - 🎨 Custom app icon and app name.
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run this project on your local machine:
 
@@ -33,7 +33,7 @@ To run this project on your local machine:
    flutter run
    ```
 
-## 🧩 Dependencies
+##  Dependencies
 
 - [shared_preferences](https://pub.dev/packages/shared_preferences)
 - [intl](https://pub.dev/packages/intl)
@@ -50,7 +50,7 @@ Make sure you have Flutter installed and configured correctly.
   - `AndroidManifest.xml` for Android
   - `Info.plist` for iOS
 
-## 📱 Platforms Supported
+##  Platforms Supported
 
 - Android ✅
 - iOS ✅ (with platform adjustments)
