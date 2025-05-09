@@ -18,7 +18,7 @@ class _MyAppState extends State<MyApp> {
   double balance = 0;
   void addMoney() async {
     setState(() {
-      balance = balance + 500;
+      balance = balance + 200;
     });
     // Obtain shared preferences.
     final SharedPreferences prefs = await SharedPreferences.getInstance();
