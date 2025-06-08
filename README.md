@@ -4,7 +4,10 @@ The **Billionaire App** is a simple Flutter project that demonstrates persistent
 
 ##  Preview
 
+<p align = "center">
 <img src="/assets/images/billionnaire_screen.png" width="300">
+</p>
+
 
 ##  Features
 
